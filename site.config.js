@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `github`,
-      href: "https://github.com/sangcheolme",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
