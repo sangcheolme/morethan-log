@@ -4,17 +4,17 @@ const CONFIG = {
     name: "sc-dev",
     image: "/new-avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: "I develop everything using java spring.",
+    bio: "자바 스프링 벡엔드 개발자",
     email: "scpark0698@gmail.com",
     linkedin: "",
     github: "sangcheolme",
     instagram: "",
   },
   projects: [
-    {
-      name: ``,
-      href: "",
-    },
+    // {
+    //   name: ``,
+    //   href: "",
+    // },
   ],
   // blog setting (required)
   blog: {
